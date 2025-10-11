@@ -358,6 +358,10 @@ syn keyword dfTokenName contained STEAM_CHANGELOG STEAM_FILE_ID
 syn keyword dfTokenName contained TL_CONNECTS TL_PAIN_RECEPTORS TL_VASCULAR TLCM_IMPORTANCE TLCM_GENETIC_MODEL
 " New Attack Tokens
 syn keyword dfTokenName contained SPECIALATTACK_INTERACTION
+" S
+syn keyword dfTokenName contained SENSE_CREATURE_CLASS SKILL_LEARN_RATE SKILL_LEARN_RATES SKILL_RATE SKILL_RUST_RATES
+syn keyword dfTokenName contained SLAIN_CASTE_SPEECH SLAIN_SPEECH SOLDIER_ALTTILE SOURCE_HFID SPOUSE_CONVERTER
+syn keyword dfTokenName contained SPREAD_EVIL_SPHERES_IF_RULER SUPERNATURAL
 " T
 syn keyword dfTokenName contained TITAN
 " U
