@@ -358,6 +358,8 @@ syn keyword dfTokenName contained STEAM_CHANGELOG STEAM_FILE_ID
 syn keyword dfTokenName contained TL_CONNECTS TL_PAIN_RECEPTORS TL_VASCULAR TLCM_IMPORTANCE TLCM_GENETIC_MODEL
 " New Attack Tokens
 syn keyword dfTokenName contained SPECIALATTACK_INTERACTION
+" O
+syn keyword dfTokenName contained OPPOSED_TO_LIFE ORIENTATION
 " P
 syn keyword dfTokenName contained PATTERNFLIER PCG_LAYERING PHYS_ATT_CAP_PERC PHYS_ATT_RATES PLUS_BP_GROUP
 syn keyword dfTokenName contained POWER PROCEDURAL_CREATURE_GRAPHICS
