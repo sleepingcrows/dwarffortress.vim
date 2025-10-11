@@ -358,6 +358,11 @@ syn keyword dfTokenName contained STEAM_CHANGELOG STEAM_FILE_ID
 syn keyword dfTokenName contained TL_CONNECTS TL_PAIN_RECEPTORS TL_VASCULAR TLCM_IMPORTANCE TLCM_GENETIC_MODEL
 " New Attack Tokens
 syn keyword dfTokenName contained SPECIALATTACK_INTERACTION
+" N
+syn keyword dfTokenName contained NO_UNIT_TYPE_COLOR NO_SUMMER NO_PHYS_ATT_RUST NO_PHYS_ATT_GAIN NO_GENDER
+syn keyword dfTokenName contained NO_CONNECTIONS_FOR_MOVEMENT NIGHT_CREATURE_NIGHTMARE NIGHT_CREATURE_HUNTER
+syn keyword dfTokenName contained NIGHT_CREATURE_EXPERIMENTER NIGHT_CREATURE_BOGEYMAN NIGHT_CREATURE
+syn keyword dfTokenName contained NATURAL_ANIMAL
 " O
 syn keyword dfTokenName contained OPPOSED_TO_LIFE ORIENTATION
 " P
