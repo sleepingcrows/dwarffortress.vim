@@ -354,3 +354,5 @@ syn keyword dfTokenName contained REQUIRES_ID_AFTER_ME CONFLICTS_WITH_ID
 " Steam Workshop Tokens
 syn keyword dfTokenName contained STEAM_TITLE STEAM_DESCRIPTION STEAM_TAG STEAM_KEY_VALUE_TAG STEAM_METADATA
 syn keyword dfTokenName contained STEAM_CHANGELOG STEAM_FILE_ID
+" New Tissue Layer Tokens
+syn keyword dfTokenName contained TL_CONNECTS TL_PAIN_RECEPTORS TL_VASCULAR TLCM_IMPORTANCE TLCM_GENETIC_MODEL
