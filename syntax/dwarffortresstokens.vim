@@ -358,6 +358,8 @@ syn keyword dfTokenName contained STEAM_CHANGELOG STEAM_FILE_ID
 syn keyword dfTokenName contained TL_CONNECTS TL_PAIN_RECEPTORS TL_VASCULAR TLCM_IMPORTANCE TLCM_GENETIC_MODEL
 " New Attack Tokens
 syn keyword dfTokenName contained SPECIALATTACK_INTERACTION
+" L 
+syn keyword dfTokenName contained LITTERSIZE LIKES_FIGHTING LAYS_UNUSUAL_EGGS LAIR_CHARACTERISTIC
 " M
 syn keyword dfTokenName contained MODVALUE MISCHIEVOUS MISCHIEVIOUS MENT_ATT_CAP_PERC MATUTINAL MATERIAL MANNERISM_*
 syn keyword dfTokenName contained MAGICAL
