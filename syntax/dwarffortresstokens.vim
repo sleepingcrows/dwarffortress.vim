@@ -356,3 +356,7 @@ syn keyword dfTokenName contained STEAM_TITLE STEAM_DESCRIPTION STEAM_TAG STEAM_
 syn keyword dfTokenName contained STEAM_CHANGELOG STEAM_FILE_ID
 " New Tissue Layer Tokens
 syn keyword dfTokenName contained TL_CONNECTS TL_PAIN_RECEPTORS TL_VASCULAR TLCM_IMPORTANCE TLCM_GENETIC_MODEL
+" New Attack Tokens
+syn keyword dfTokenName contained SPECIALATTACK_INTERACTION
+" V
+syn keyword dfTokenName contained VIEWRANGE VERMINHUNTER 
