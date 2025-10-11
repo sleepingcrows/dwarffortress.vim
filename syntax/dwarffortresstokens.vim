@@ -358,6 +358,9 @@ syn keyword dfTokenName contained STEAM_CHANGELOG STEAM_FILE_ID
 syn keyword dfTokenName contained TL_CONNECTS TL_PAIN_RECEPTORS TL_VASCULAR TLCM_IMPORTANCE TLCM_GENETIC_MODEL
 " New Attack Tokens
 syn keyword dfTokenName contained SPECIALATTACK_INTERACTION
+" C
+syn keyword dfTokenName contained CANNOT_UNDEAD CASTE_ALTTILE CASTE_GLOWCOLOR CASTE_GLOWTILE CASTE_PROFESSION_NAME
+syn keyword dfTokenName contained CASTE_TILE CHANGE_FREQUENCY_PERC CONVERTED_SPOUSE CRAZED
 " D
 syn keyword dfTokenName contained DEMON
 " F
